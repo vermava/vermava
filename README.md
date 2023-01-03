@@ -4,7 +4,7 @@
 Vandana is a Security Relations Leader at Snyk with a current focus on DevSecOps. She is a seasoned speaker and trainer and presented at various public events ranging from Global OWASP AppSec events to BlackHat events, to regional events such as BSides events in India. She is on the OWASP Global Board of directors (Chair). She also works in various communities towards diversity initiatives such as InfosecGirls, InfosecKids and WoSec. She is a recipient of multiple awards and is listed as one of the top women leaders in technology and cybersecurity in India.
 
 
-Passionate about Open-source, DevSecOps, Diversity and Cloud Computing  
+In love working on Open-source, DevSecOps, Diversity and Cloud Computing  
 OWASP Global Board Member - Chair 
 President InfosecGirls
 Founder InfosecDiversity and Kids  
