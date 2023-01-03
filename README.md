@@ -22,5 +22,5 @@ Vandana is a Security Relations Leader at Snyk with a current focus on DevSecOps
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/verma/verma">
   <img align="center" src="[([https://github-readme-stats.vercel.app/api?username=vermava&count_private=true&show_icons=true&theme=chartreuse-dark
-)" alt="Vandana's GitHub Stats"](https://github-readme-stats.vercel.app/api?username=vermava&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21%22%20alt=%22Vandana%27s%20GitHub%20Stats) />
+)" alt="Vandana's GitHub Stats"]
 </a>
