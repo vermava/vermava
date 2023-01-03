@@ -1,7 +1,5 @@
 ### Hi there 👋 
 
-<!--
-**vermava/vermava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## About Me 
 Vandana is a Security Relations Leader at Snyk with a current focus on DevSecOps. She is a seasoned speaker and trainer and presented at various public events ranging from Global OWASP AppSec events to BlackHat events, to regional events such as BSides events in India. She is on the OWASP Global Board of directors (Chair). She also works in various communities towards diversity initiatives such as InfosecGirls, InfosecKids and WoSec. She is a recipient of multiple awards and is listed as one of the top women leaders in technology and cybersecurity in India.
 
