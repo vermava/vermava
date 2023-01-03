@@ -14,9 +14,13 @@ Vandana is a Security Relations Leader at Snyk with a current focus on DevSecOps
 👩‍🎤 Ambassador at Women In Cloud
 🎤 Public speaker, Tech advocate & Mentor  
 
+Website - https://infosecvandana.com/
+
 ## &#x270d; Initiatives & Writing
 
-
+* InfosecGirls
+* InfosecKids
+* InfosecDiversity
 
 
 ## &#x1f4c8; GitHub Stats
