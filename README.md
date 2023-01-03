@@ -5,8 +5,11 @@ Vandana is a Security Relations Leader at Snyk with a current focus on DevSecOps
 
 
 💖 Passionate about Open-source, DevSecOps, Diversity and Cloud Computing  
+
 ☁️  OWASP Global Board Member - Chair 
+
 🎓 President InfosecGirls
+
 💻 Founder InfosecDiversity and Kids  
 👩‍🎤 Ambassador at Women In Cloud
 🎤 Public speaker, Tech advocate & Mentor  
